@@ -1,12 +1,12 @@
 {
-  "name": "gladys-contacts",
+  "name": "gladys-shoppingList",
   "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Boimb",
+  "author": "jukeB0x",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
   }
